@@ -1,0 +1,24 @@
+# Celtana
+
+> Celtana is a growth agency helping businesses attract customers, improve sales pipelines, and simplify work through strategy, creative, and automation.
+
+## Start here
+
+- [Celtana homepage](https://www.celtana.io/): Overview, results, process, pricing, and frequently asked questions.
+
+## Services
+
+- [Paid Media](https://www.celtana.io/services/paid-media/): Search and social campaigns.
+- [SEO & Content](https://www.celtana.io/services/seo-content/): Search visibility and content.
+- [Brand & Creative](https://www.celtana.io/services/brand-creative/): Positioning and ad creative.
+- [Email & Lifecycle](https://www.celtana.io/services/email-lifecycle/): Customer email flows.
+- [Social & Community](https://www.celtana.io/services/social-community/): Organic social content.
+- [Web & Digital Solutions](https://www.celtana.io/services/conversion-web/): Landing pages and small websites.
+- [Business Process Optimization](https://www.celtana.io/services/process-optimization/): Simpler workflows and handoffs.
+- [CRM & Sales Pipelines](https://www.celtana.io/services/crm-sales-pipelines/): Lead and deal tracking.
+- [AI Automation](https://www.celtana.io/services/ai-automation/): Practical automation in existing tools.
+
+## Policies
+
+- [Privacy policy](https://www.celtana.io/privacy/): Data use and cookie choices.
+- [Terms of use](https://www.celtana.io/terms/): Website and service terms.
